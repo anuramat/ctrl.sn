@@ -1,3 +1,1 @@
-# ctrl.sn
-
-![](./ctrlsn.gif)
+![happy](./ctrlsn.gif)
